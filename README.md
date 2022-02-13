@@ -10,7 +10,7 @@ Tracking the impact of COVID-19, Graph, Symptoms checker, Covid News , Map view.
 1280 x 860
 
 ## Live Demo
-[Demo](https://legome0937.github.io/Covid19-dashboard/)
+[Demo]( https://legome0937.github.io/Covid19-dashboard/)
 
 ### Built With
 - [HTML]
